@@ -48,9 +48,6 @@ export default function Home() {
 
     while (imageElem1 < 0) {
       let value01 = imageElem1 / (document.body.clientHeight/3) + 1;
-      console.log(document.body.clientHeight)
-      console.log(imageElem1 / document.body.clientHeight)
-      console.log(value01)
       value01 = value01 > 1 ? 1 : value01 < 0.6 ? 0.6 : value01;
       img01.style.transform = `scale(${value01})`;
       if ((value01 = 0.6)) {
