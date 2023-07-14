@@ -17,12 +17,12 @@ export default function Home() {
 
   const width = document.body.clientWidth;
 
-  // useEffect(() => {
-  //   window.addEventListener("scroll", getImgResize);
-  //   return () => {
-  //     window.removeEventListener("scroll", getImgResize); //clean up
-  //   };
-  // }, []);
+  useEffect(() => {
+    window.addEventListener("scroll", getImgResize);
+    return () => {
+      window.removeEventListener("scroll", getImgResize); //clean up
+    };
+  }, []);
   const getImgResize = () => {
     if ( width > 1296 ) {
     const img01 = document.documentElement.querySelector("#img");

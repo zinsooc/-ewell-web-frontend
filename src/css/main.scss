@@ -73,41 +73,59 @@
   #img03,
   #img04 {
     width: 100%;
-//    position: relative;
+    height: 200vh;
+    position: relative;
     margin-top: 150px;
     #img,
     #img2,
     #img3,
     #img4 {
       width: 100%;
-      // height: 100vh;
-     // position: sticky;
+      height: 100vh;
+      position: sticky;
       top: 0;
       overflow: hidden;
-   //   transform-origin: center center;
-   //   transition-timing-function: ease;
+      transform-origin: center center;
+      transition-timing-function: ease;
+      // .box {
+      //   width: 100%;
+      //   height: 100%;
+      //    &> div {
+      //     display: flex;
+      //     justify-content: center;
+
+      //    }
+      //   transform: translateZ(0);
+      //   overflow: hidden;
+      //   border-radius: 30px;
+      //   img {
+      //     position: absolute;
+      //     align-self: center;
+      //     max-width: 1800px;
+      //     width: 100%;
+      //     border-radius: 30px;
+      //   }
+      //   video {
+      //     max-width: 1800px;
+      //     width: 100%;
+      //     position: absolute;
+      //     border-radius: 30px;
+      //   }
+      // }
       .box {
         width: 100%;
         height: 100%;
-         &> div {
-          display: flex;
-          justify-content: center;
-
-         }
-     //   transform: translateZ(0);
-   //     overflow: hidden;
+        transform: translateZ(0);
+        overflow: hidden;
         border-radius: 30px;
         img {
-      //    position: absolute;
-        align-self: center;
-          max-width: 1800px;
+          position: absolute;
           width: 100%;
           border-radius: 30px;
         }
         video {
-          max-width: 1800px;
           width: 100%;
-      //    position: absolute;
+          position: absolute;
           border-radius: 30px;
         }
       }
@@ -397,7 +415,7 @@
 
 .about-container {
   width: 1100px;
-  margin: 10vw auto 30rem;
+  margin: 0 auto 30rem;
   h2 {
     font-size: 5rem;
     font-weight: bold;
