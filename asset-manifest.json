@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/pages/static/css/main.32104698.css",
+    "main.js": "/pages/static/js/main.2b12c959.js",
+    "static/js/787.75bd8ad2.chunk.js": "/pages/static/js/787.75bd8ad2.chunk.js",
+    "static/media/01.mp4": "/pages/static/media/01.ea7ee819bd950dfa51d4.mp4",
+    "static/media/fuel.jpg": "/pages/static/media/fuel.8dc76a75a6453df0f850.jpg",
+    "static/media/image01.png": "/pages/static/media/image01.aed369a2dc7b7ead4ddc.png",
+    "static/media/image02.png": "/pages/static/media/image02.f4c3fbb45b63e8db01b6.png",
+    "static/media/image_04.png": "/pages/static/media/image_04.07ec9db575c28f49e1a4.png",
+    "static/media/image_05.png": "/pages/static/media/image_05.f9a391a71c7186456e00.png",
+    "static/media/image03.png": "/pages/static/media/image03.8327ca4604b734a9e86b.png",
+    "static/media/handshake.jpg": "/pages/static/media/handshake.72e3b1a2b6247f267199.jpg",
+    "static/media/SpoqaHanSansNeo-Thin.ttf": "/pages/static/media/SpoqaHanSansNeo-Thin.b8666c6d2d1d929509a1.ttf",
+    "static/media/SpoqaHanSansNeo-Light.ttf": "/pages/static/media/SpoqaHanSansNeo-Light.008270707379c4b4bc51.ttf",
+    "static/media/SpoqaHanSansNeo-Regular.ttf": "/pages/static/media/SpoqaHanSansNeo-Regular.b935041cbcc86b551721.ttf",
+    "static/media/SpoqaHanSansNeo-Medium.ttf": "/pages/static/media/SpoqaHanSansNeo-Medium.cf5c6ddcaec3f59a13c7.ttf",
+    "static/media/SpoqaHanSansNeo-Bold.ttf": "/pages/static/media/SpoqaHanSansNeo-Bold.9a610369db9d3c28b99f.ttf",
+    "static/media/SpoqaHanSansNeo-Light.woff": "/pages/static/media/SpoqaHanSansNeo-Light.1cb73b3acae88adbdd59.woff",
+    "static/media/SpoqaHanSansNeo-Bold.woff": "/pages/static/media/SpoqaHanSansNeo-Bold.dc75532918fd412e27a3.woff",
+    "static/media/SpoqaHanSansNeo-Regular.woff": "/pages/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
+    "static/media/SpoqaHanSansNeo-Medium.woff": "/pages/static/media/SpoqaHanSansNeo-Medium.823120084c9ac260b260.woff",
+    "static/media/SpoqaHanSansNeo-Thin.woff": "/pages/static/media/SpoqaHanSansNeo-Thin.a6efdcf0d2b696673851.woff",
+    "static/media/SpoqaHanSansNeo-Bold.woff2": "/pages/static/media/SpoqaHanSansNeo-Bold.1db18034ccc384032a4a.woff2",
+    "static/media/SpoqaHanSansNeo-Regular.woff2": "/pages/static/media/SpoqaHanSansNeo-Regular.452bf1579d6a73fbaffc.woff2",
+    "static/media/SpoqaHanSansNeo-Medium.woff2": "/pages/static/media/SpoqaHanSansNeo-Medium.8589927a4fa35d637a8d.woff2",
+    "static/media/SpoqaHanSansNeo-Light.woff2": "/pages/static/media/SpoqaHanSansNeo-Light.13ba65ce1663198528ba.woff2",
+    "static/media/SpoqaHanSansNeo-Thin.woff2": "/pages/static/media/SpoqaHanSansNeo-Thin.9aab6330b7ba8adf7abf.woff2",
+    "static/media/img_0004.png": "/pages/static/media/img_0004.9d707f7df7563f50b49e.png",
+    "static/media/image_06.png": "/pages/static/media/image_06.2f3047da2ff4888927a3.png",
+    "static/media/img_0001.png": "/pages/static/media/img_0001.0089d933d672e6d8b002.png",
+    "static/media/img_0003.png": "/pages/static/media/img_0003.47b8beee4273465536e5.png",
+    "static/media/img_0002.png": "/pages/static/media/img_0002.365f22a9e9ba83876fb7.png",
+    "index.html": "/pages/index.html",
+    "main.32104698.css.map": "/pages/static/css/main.32104698.css.map",
+    "main.2b12c959.js.map": "/pages/static/js/main.2b12c959.js.map",
+    "787.75bd8ad2.chunk.js.map": "/pages/static/js/787.75bd8ad2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32104698.css",
+    "static/js/main.2b12c959.js"
+  ]
+}
