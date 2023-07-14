@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/-ewell-web-frontend/static/css/main.e6acea99.css",
-    "main.js": "/-ewell-web-frontend/static/js/main.8c61ef08.js",
+    "main.css": "/-ewell-web-frontend/static/css/main.2da8a227.css",
+    "main.js": "/-ewell-web-frontend/static/js/main.263e9b87.js",
     "static/js/787.75bd8ad2.chunk.js": "/-ewell-web-frontend/static/js/787.75bd8ad2.chunk.js",
     "static/media/01.mp4": "/-ewell-web-frontend/static/media/01.ea7ee819bd950dfa51d4.mp4",
     "static/media/fuel.jpg": "/-ewell-web-frontend/static/media/fuel.8dc76a75a6453df0f850.jpg",
@@ -32,12 +32,12 @@
     "static/media/img_0003.png": "/-ewell-web-frontend/static/media/img_0003.47b8beee4273465536e5.png",
     "static/media/img_0002.png": "/-ewell-web-frontend/static/media/img_0002.365f22a9e9ba83876fb7.png",
     "index.html": "/-ewell-web-frontend/index.html",
-    "main.e6acea99.css.map": "/-ewell-web-frontend/static/css/main.e6acea99.css.map",
-    "main.8c61ef08.js.map": "/-ewell-web-frontend/static/js/main.8c61ef08.js.map",
+    "main.2da8a227.css.map": "/-ewell-web-frontend/static/css/main.2da8a227.css.map",
+    "main.263e9b87.js.map": "/-ewell-web-frontend/static/js/main.263e9b87.js.map",
     "787.75bd8ad2.chunk.js.map": "/-ewell-web-frontend/static/js/787.75bd8ad2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6acea99.css",
-    "static/js/main.8c61ef08.js"
+    "static/css/main.2da8a227.css",
+    "static/js/main.263e9b87.js"
   ]
 }
