@@ -23,6 +23,7 @@ export default function Home() {
       window.removeEventListener("scroll", getImgResize); //clean up
     };
   }, []);
+
   const getImgResize = () => {
     if ( width > 1296 ) {
     const img01 = document.documentElement.querySelector("#img");
@@ -46,7 +47,10 @@ export default function Home() {
       .getBoundingClientRect().top;
 
     while (imageElem1 < 0) {
-      let value01 = imageElem1 / document.body.clientHeight + 1;
+      let value01 = imageElem1 / (document.body.clientHeight/3) + 1;
+      console.log(document.body.clientHeight)
+      console.log(imageElem1 / document.body.clientHeight)
+      console.log(value01)
       value01 = value01 > 1 ? 1 : value01 < 0.6 ? 0.6 : value01;
       img01.style.transform = `scale(${value01})`;
       if ((value01 = 0.6)) {
@@ -54,7 +58,7 @@ export default function Home() {
       }
     }
     while (imageElem2 < 0) {
-      let value02 = imageElem2 / document.body.clientHeight + 1;
+      let value02 = imageElem2 / (document.body.clientHeight/3) + 1;
       value02 = value02 > 1 ? 1 : value02 < 0.6 ? 0.6 : value02;
       img02.style.transform = `scale(${value02})`;
       if ((value02 = 0.6)) {
@@ -62,7 +66,7 @@ export default function Home() {
       }
     }
     while (imageElem3 < 0) {
-      let value03 = imageElem3 / document.body.clientHeight + 1;
+      let value03 = imageElem3 / (document.body.clientHeight/3) + 1;
       value03 = value03 > 1 ? 1 : value03 < 0.6 ? 0.6 : value03;
       img03.style.transform = `scale(${value03})`;
       if ((value03 = 0.6)) {
@@ -70,7 +74,7 @@ export default function Home() {
       }
     }
     while (imageElem4 < 0) {
-      let value04 = imageElem4 / document.body.clientHeight + 1;
+      let value04 = imageElem4 / (document.body.clientHeight/3) + 1;
       value04 = value04 > 1 ? 1 : value04 < 0.6 ? 0.6 : value04;
       img04.style.transform = `scale(${value04})`;
       if ((value04 = 0.6)) {

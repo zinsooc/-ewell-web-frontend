@@ -11,12 +11,12 @@ export default function About() {
 
    const width = document.body.clientWidth;
 
-    // useEffect(() => {
-    //     window.addEventListener("scroll", getImgResize);
-    //     return () => {
-    //       window.removeEventListener("scroll", getImgResize); //clean up
-    //     };
-    //   }, []);
+    useEffect(() => {
+        window.addEventListener("scroll", getImgResize);
+        return () => {
+          window.removeEventListener("scroll", getImgResize); //clean up
+        };
+      }, []);
     
       const getImgResize = () => {
         if ( width > 1296 ) {
@@ -26,7 +26,7 @@ export default function About() {
           .getBoundingClientRect().top;    
     
         while (imageElem1 < 0) {
-          let value01 = imageElem1 / document.body.clientHeight + 1;
+          let value01 = imageElem1 / (document.body.clientHeight/3) + 1;
           value01 = value01 > 1 ? 1 : value01 < 0.65 ? 0.65 : value01;
           img01.style.transform = `scale(${value01})`;
           console.log(value01);
