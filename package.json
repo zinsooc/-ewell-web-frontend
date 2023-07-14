@@ -41,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://zinsooc.github.io/-ewell-web-frontend/"
+  "homepage": "https://zinsooc.github.io/-ewell-web-frontend/",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }

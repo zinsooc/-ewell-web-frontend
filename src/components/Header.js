@@ -12,7 +12,7 @@ export default function Header() {
   const pathName = str.substring(1, str.length);
 
   useEffect(() => {
-    console.log(pathName);
+    // console.log(pathName);
   }, [location]);
 
   const [menuOpen, setMenuOpen] = useState(false);
