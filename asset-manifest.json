@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/-ewell-web-frontend/static/css/main.2da8a227.css",
-    "main.js": "/-ewell-web-frontend/static/js/main.263e9b87.js",
+    "main.js": "/-ewell-web-frontend/static/js/main.29e2c63c.js",
     "static/js/787.75bd8ad2.chunk.js": "/-ewell-web-frontend/static/js/787.75bd8ad2.chunk.js",
     "static/media/01.mp4": "/-ewell-web-frontend/static/media/01.ea7ee819bd950dfa51d4.mp4",
     "static/media/fuel.jpg": "/-ewell-web-frontend/static/media/fuel.8dc76a75a6453df0f850.jpg",
@@ -33,11 +33,11 @@
     "static/media/img_0002.png": "/-ewell-web-frontend/static/media/img_0002.365f22a9e9ba83876fb7.png",
     "index.html": "/-ewell-web-frontend/index.html",
     "main.2da8a227.css.map": "/-ewell-web-frontend/static/css/main.2da8a227.css.map",
-    "main.263e9b87.js.map": "/-ewell-web-frontend/static/js/main.263e9b87.js.map",
+    "main.29e2c63c.js.map": "/-ewell-web-frontend/static/js/main.29e2c63c.js.map",
     "787.75bd8ad2.chunk.js.map": "/-ewell-web-frontend/static/js/787.75bd8ad2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2da8a227.css",
-    "static/js/main.263e9b87.js"
+    "static/js/main.29e2c63c.js"
   ]
 }
